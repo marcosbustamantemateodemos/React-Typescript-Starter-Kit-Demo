@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Typescript-Starter-Kit-Demo/static/css/main.4e5ea6b5.chunk.css",
+    "main.js": "/React-Typescript-Starter-Kit-Demo/static/js/main.5c0e42be.chunk.js",
+    "main.js.map": "/React-Typescript-Starter-Kit-Demo/static/js/main.5c0e42be.chunk.js.map",
+    "runtime-main.js": "/React-Typescript-Starter-Kit-Demo/static/js/runtime-main.dc6d5291.js",
+    "runtime-main.js.map": "/React-Typescript-Starter-Kit-Demo/static/js/runtime-main.dc6d5291.js.map",
+    "static/css/2.ea35eab1.chunk.css": "/React-Typescript-Starter-Kit-Demo/static/css/2.ea35eab1.chunk.css",
+    "static/js/2.713f97f5.chunk.js": "/React-Typescript-Starter-Kit-Demo/static/js/2.713f97f5.chunk.js",
+    "static/js/2.713f97f5.chunk.js.map": "/React-Typescript-Starter-Kit-Demo/static/js/2.713f97f5.chunk.js.map",
+    "index.html": "/React-Typescript-Starter-Kit-Demo/index.html",
+    "precache-manifest.46c6b3b543815336dc7acb60b945cada.js": "/React-Typescript-Starter-Kit-Demo/precache-manifest.46c6b3b543815336dc7acb60b945cada.js",
+    "service-worker.js": "/React-Typescript-Starter-Kit-Demo/service-worker.js",
+    "static/css/2.ea35eab1.chunk.css.map": "/React-Typescript-Starter-Kit-Demo/static/css/2.ea35eab1.chunk.css.map",
+    "static/css/main.4e5ea6b5.chunk.css.map": "/React-Typescript-Starter-Kit-Demo/static/css/main.4e5ea6b5.chunk.css.map"
+  }
+}
